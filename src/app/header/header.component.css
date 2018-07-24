@@ -1,0 +1,9 @@
+.background-col{
+    background: rgb(62,80,179);
+}
+
+.cmpnyName{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    font-size: 25px;
+}
